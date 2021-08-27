@@ -1,0 +1,537 @@
+[2021-05-16T19:09:44.045786 8420 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) base_dir = 
+[2021-05-16T19:09:44.045786 8420 ] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) compiler = 
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) compression = false
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) debug = false
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) disable = false
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) hard_link = false
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.045786 8420 ] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) max_files = 0
+[2021-05-16T19:09:44.045786 8420 ] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) path = 
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) read_only = false
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) recache = false
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) stats = true
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.045786 8420 ] Config: (default) umask = 
+[2021-05-16T19:09:44.045786 8420 ] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2021-05-16T19:09:44.046783 8420 ] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.047780 8420 ] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.047780 8420 ] Source file: __helpers.c
+[2021-05-16T19:09:44.047780 8420 ] Object file: __helpers.o
+[2021-05-16T19:09:44.047780 8420 ] Trying direct lookup
+[2021-05-16T19:09:44.048777 8420 ] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/b/354aa714edb8ad0d59aa813bf44513-70247.manifest
+[2021-05-16T19:09:44.048777 26064] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.048777 26064] Config: (default) base_dir = 
+[2021-05-16T19:09:44.048777 26064] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.048777 26064] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.048777 26064] Config: (default) compiler = 
+[2021-05-16T19:09:44.048777 26064] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.048777 26064] Config: (default) compression = false
+[2021-05-16T19:09:44.048777 26064] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.048777 26064] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.048777 26064] Config: (default) debug = false
+[2021-05-16T19:09:44.048777 26064] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.048777 26064] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.048777 26064] Config: (default) disable = false
+[2021-05-16T19:09:44.048777 26064] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.048777 26064] Config: (default) hard_link = false
+[2021-05-16T19:09:44.048777 26064] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.048777 26064] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.048777 26064] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.048777 26064] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.048777 26064] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.048777 26064] Config: (default) max_files = 0
+[2021-05-16T19:09:44.048777 26064] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.048777 26064] Config: (default) path = 
+[2021-05-16T19:09:44.048777 26064] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.048777 26064] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.048777 26064] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.048777 26064] Config: (default) read_only = false
+[2021-05-16T19:09:44.048777 26064] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.048777 26064] Config: (default) recache = false
+[2021-05-16T19:09:44.048777 26064] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.048777 26064] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.048777 26064] Config: (default) stats = true
+[2021-05-16T19:09:44.048777 26064] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.048777 26064] Config: (default) umask = 
+[2021-05-16T19:09:44.049777 26064] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2021-05-16T19:09:44.049777 26064] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.049777 26064] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.050772 26064] Source file: __constants.c
+[2021-05-16T19:09:44.050772 26064] Object file: __constants.o
+[2021-05-16T19:09:44.050772 26064] Trying direct lookup
+[2021-05-16T19:09:44.050772 26064] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/b/c7dc81220de18efbff4326e362dfc2-4640.manifest
+[2021-05-16T19:09:44.057615 12280] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.057615 12280] Config: (default) base_dir = 
+[2021-05-16T19:09:44.057615 12280] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.057615 12280] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.057615 12280] Config: (default) compiler = 
+[2021-05-16T19:09:44.057615 12280] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.057615 12280] Config: (default) compression = false
+[2021-05-16T19:09:44.057615 12280] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.057615 12280] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.057615 12280] Config: (default) debug = false
+[2021-05-16T19:09:44.057615 12280] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.057615 12280] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.057615 12280] Config: (default) disable = false
+[2021-05-16T19:09:44.057615 12280] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.057615 12280] Config: (default) hard_link = false
+[2021-05-16T19:09:44.057615 12280] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.057615 12280] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.057615 12280] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.057615 12280] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.057615 12280] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.057615 12280] Config: (default) max_files = 0
+[2021-05-16T19:09:44.057615 12280] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.057615 12280] Config: (default) path = 
+[2021-05-16T19:09:44.057615 12280] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.057615 12280] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.057615 12280] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.057615 12280] Config: (default) read_only = false
+[2021-05-16T19:09:44.057615 12280] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.057615 12280] Config: (default) recache = false
+[2021-05-16T19:09:44.057615 12280] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.057615 12280] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.057615 12280] Config: (default) stats = true
+[2021-05-16T19:09:44.057615 12280] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.057615 12280] Config: (default) umask = 
+[2021-05-16T19:09:44.057615 12280] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2021-05-16T19:09:44.057615 12280] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.057615 12280] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.058611 12280] Source file: __loader.c
+[2021-05-16T19:09:44.058611 12280] Object file: __loader.o
+[2021-05-16T19:09:44.058611 12280] Trying direct lookup
+[2021-05-16T19:09:44.058611 12280] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/0/87dddbe4f78ffe9a8867a0f7f68058-3056.manifest
+[2021-05-16T19:09:44.071258 4296 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) base_dir = 
+[2021-05-16T19:09:44.071258 4296 ] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) compiler = 
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) compression = false
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) debug = false
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) disable = false
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) hard_link = false
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.071258 4296 ] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) max_files = 0
+[2021-05-16T19:09:44.071258 4296 ] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) path = 
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) read_only = false
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) recache = false
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) stats = true
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.071258 4296 ] Config: (default) umask = 
+[2021-05-16T19:09:44.072254 4296 ] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2021-05-16T19:09:44.072254 4296 ] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.073251 4296 ] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.073251 4296 ] Source file: module.__main__.c
+[2021-05-16T19:09:44.073251 4296 ] Object file: module.__main__.o
+[2021-05-16T19:09:44.073251 4296 ] Trying direct lookup
+[2021-05-16T19:09:44.074248 4296 ] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/2/3a380e242bd6482d4b06d2653eb37e-242437.manifest
+[2021-05-16T19:09:44.074248 4296 ] No such manifest file
+[2021-05-16T19:09:44.074248 4296 ] Did not find object file hash in manifest
+[2021-05-16T19:09:44.075245 4296 ] Running preprocessor
+[2021-05-16T19:09:44.092200 22540] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.092200 22540] Config: (default) base_dir = 
+[2021-05-16T19:09:44.092200 22540] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.092200 22540] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.092200 22540] Config: (default) compiler = 
+[2021-05-16T19:09:44.092200 22540] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.092200 22540] Config: (default) compression = false
+[2021-05-16T19:09:44.092200 22540] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.092200 22540] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.092200 22540] Config: (default) debug = false
+[2021-05-16T19:09:44.092200 22540] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.092200 22540] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.092200 22540] Config: (default) disable = false
+[2021-05-16T19:09:44.092200 22540] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.092200 22540] Config: (default) hard_link = false
+[2021-05-16T19:09:44.092200 22540] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.092200 22540] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.092200 22540] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.092200 22540] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.092200 22540] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.092200 22540] Config: (default) max_files = 0
+[2021-05-16T19:09:44.092200 22540] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.092200 22540] Config: (default) path = 
+[2021-05-16T19:09:44.092200 22540] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.092200 22540] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.092200 22540] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.092200 22540] Config: (default) read_only = false
+[2021-05-16T19:09:44.092200 22540] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.092200 22540] Config: (default) recache = false
+[2021-05-16T19:09:44.092200 22540] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.092200 22540] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.092200 22540] Config: (default) stats = true
+[2021-05-16T19:09:44.092200 22540] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.092200 22540] Config: (default) umask = 
+[2021-05-16T19:09:44.093197 22540] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2021-05-16T19:09:44.093197 22540] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.093197 22540] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.094195 22540] Source file: static_src\MainProgram.c
+[2021-05-16T19:09:44.094195 22540] Object file: static_src\MainProgram.o
+[2021-05-16T19:09:44.094195 22540] Trying direct lookup
+[2021-05-16T19:09:44.094195 22540] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/0/89e832c74a7533f583edfaae4b5ee8-26162.manifest
+[2021-05-16T19:09:44.107160 12280] Got object file hash from manifest
+[2021-05-16T19:09:44.108157 12280] Copying C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/4/cde39501bd961f5a3921b79a7dea60-415750.o to __loader.o (uncompressed)
+[2021-05-16T19:09:44.108157 10360] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.108157 12280] Created from cache: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/4/cde39501bd961f5a3921b79a7dea60-415750.o -> __loader.o
+[2021-05-16T19:09:44.108157 10360] Config: (default) base_dir = 
+[2021-05-16T19:09:44.108157 10360] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.108157 10360] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.108157 10360] Config: (default) compiler = 
+[2021-05-16T19:09:44.108157 10360] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.108157 10360] Config: (default) compression = false
+[2021-05-16T19:09:44.108157 10360] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.108157 10360] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.108157 10360] Config: (default) debug = false
+[2021-05-16T19:09:44.108157 10360] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.108157 10360] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.108157 10360] Config: (default) disable = false
+[2021-05-16T19:09:44.108157 10360] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.108157 10360] Config: (default) hard_link = false
+[2021-05-16T19:09:44.108157 10360] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.108157 10360] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.108157 10360] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.108157 10360] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.108157 10360] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.108157 10360] Config: (default) max_files = 0
+[2021-05-16T19:09:44.108157 10360] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.108157 10360] Config: (default) path = 
+[2021-05-16T19:09:44.108157 10360] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.108157 10360] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.108157 10360] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.108157 10360] Config: (default) read_only = false
+[2021-05-16T19:09:44.108157 10360] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.108157 10360] Config: (default) recache = false
+[2021-05-16T19:09:44.108157 10360] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.108157 10360] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.108157 10360] Config: (default) stats = true
+[2021-05-16T19:09:44.108157 10360] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.108157 10360] Config: (default) umask = 
+[2021-05-16T19:09:44.108157 10360] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2021-05-16T19:09:44.109155 10360] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.109155 10360] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.109155 12280] Succeeded getting cached result
+[2021-05-16T19:09:44.109155 12280] Result: cache hit (direct)
+[2021-05-16T19:09:44.109155 10360] Source file: static_src\CompiledCellType.c
+[2021-05-16T19:09:44.109155 10360] Object file: static_src\CompiledCellType.o
+[2021-05-16T19:09:44.109155 10360] Trying direct lookup
+[2021-05-16T19:09:44.109155 12280] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-05-16T19:09:44.110152 10360] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/c/6967ded1cadd392f8c090e545a1f29-7912.manifest
+[2021-05-16T19:09:44.114142 12280] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-05-16T19:09:44.122121 26064] Got object file hash from manifest
+[2021-05-16T19:09:44.124115 26064] Copying C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/f/e21d44ea99d023da4b863e3faf4ad0-586990.o to __constants.o (uncompressed)
+[2021-05-16T19:09:44.125113 26064] Created from cache: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/f/e21d44ea99d023da4b863e3faf4ad0-586990.o -> __constants.o
+[2021-05-16T19:09:44.125113 8420 ] Got object file hash from manifest
+[2021-05-16T19:09:44.125113 26064] Succeeded getting cached result
+[2021-05-16T19:09:44.126110 26064] Result: cache hit (direct)
+[2021-05-16T19:09:44.126110 26064] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-05-16T19:09:44.126110 8420 ] Copying C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/e/ac23fa08727f3f58035d0548d92bea-629458.o to __helpers.o (uncompressed)
+[2021-05-16T19:09:44.127107 8420 ] Created from cache: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/e/ac23fa08727f3f58035d0548d92bea-629458.o -> __helpers.o
+[2021-05-16T19:09:44.128105 8420 ] Succeeded getting cached result
+[2021-05-16T19:09:44.128105 8420 ] Result: cache hit (direct)
+[2021-05-16T19:09:44.128105 8420 ] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-05-16T19:09:44.131097 26064] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-05-16T19:09:44.136083 8420 ] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-05-16T19:09:44.137080 5416 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) base_dir = 
+[2021-05-16T19:09:44.137080 5416 ] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) compiler = 
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) compression = false
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) debug = false
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) disable = false
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) hard_link = false
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.137080 5416 ] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) max_files = 0
+[2021-05-16T19:09:44.137080 5416 ] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) path = 
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) read_only = false
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) recache = false
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) stats = true
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.137080 5416 ] Config: (default) umask = 
+[2021-05-16T19:09:44.138078 5416 ] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2021-05-16T19:09:44.138078 5416 ] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.138078 5416 ] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.139075 5416 ] Source file: static_src\CompiledFunctionType.c
+[2021-05-16T19:09:44.139075 5416 ] Object file: static_src\CompiledFunctionType.o
+[2021-05-16T19:09:44.139075 5416 ] Trying direct lookup
+[2021-05-16T19:09:44.139075 5416 ] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/3/e7e01dd5e4e09289607563e40a43b2-78893.manifest
+[2021-05-16T19:09:44.160542 9744 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) base_dir = 
+[2021-05-16T19:09:44.160542 9744 ] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) compiler = 
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) compression = false
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) debug = false
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) disable = false
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) hard_link = false
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.160542 9744 ] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) max_files = 0
+[2021-05-16T19:09:44.160542 9744 ] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) path = 
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) read_only = false
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) recache = false
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) stats = true
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.160542 9744 ] Config: (default) umask = 
+[2021-05-16T19:09:44.161539 9744 ] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2021-05-16T19:09:44.161539 9744 ] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.161539 9744 ] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.161539 9744 ] Source file: static_src\CompiledGeneratorType.c
+[2021-05-16T19:09:44.161539 9744 ] Object file: static_src\CompiledGeneratorType.o
+[2021-05-16T19:09:44.161539 9744 ] Trying direct lookup
+[2021-05-16T19:09:44.162536 9744 ] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/5/18dfd0252e1269202557709cb27cf8-57342.manifest
+[2021-05-16T19:09:44.188529 10360] Got object file hash from manifest
+[2021-05-16T19:09:44.189525 10360] Copying C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/2/29c58e0aa8af1408a6dbbba7db5e4d-590667.o to static_src\CompiledCellType.o (uncompressed)
+[2021-05-16T19:09:44.189525 10360] Created from cache: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/2/29c58e0aa8af1408a6dbbba7db5e4d-590667.o -> static_src\CompiledCellType.o
+[2021-05-16T19:09:44.190523 10360] Succeeded getting cached result
+[2021-05-16T19:09:44.190523 10360] Result: cache hit (direct)
+[2021-05-16T19:09:44.190523 10360] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-05-16T19:09:44.193448 10360] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-05-16T19:09:44.208138 5416 ] Got object file hash from manifest
+[2021-05-16T19:09:44.209135 5416 ] Copying C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/d/f19f3c80353b63c4382aaf5a7ad1be-670479.o to static_src\CompiledFunctionType.o (uncompressed)
+[2021-05-16T19:09:44.210132 5416 ] Created from cache: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/d/f19f3c80353b63c4382aaf5a7ad1be-670479.o -> static_src\CompiledFunctionType.o
+[2021-05-16T19:09:44.211130 5416 ] Succeeded getting cached result
+[2021-05-16T19:09:44.211130 5416 ] Result: cache hit (direct)
+[2021-05-16T19:09:44.211130 5416 ] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-16T19:09:44.215119 5416 ] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-16T19:09:44.226090 9744 ] Got object file hash from manifest
+[2021-05-16T19:09:44.228085 9744 ] Copying C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/f/c0bc11d539abf03fba98f500dbeac0-763291.o to static_src\CompiledGeneratorType.o (uncompressed)
+[2021-05-16T19:09:44.228085 9744 ] Created from cache: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/f/c0bc11d539abf03fba98f500dbeac0-763291.o -> static_src\CompiledGeneratorType.o
+[2021-05-16T19:09:44.229082 9744 ] Succeeded getting cached result
+[2021-05-16T19:09:44.229082 9744 ] Result: cache hit (direct)
+[2021-05-16T19:09:44.229082 9744 ] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2021-05-16T19:09:44.233071 9744 ] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2021-05-16T19:09:44.322249 22540] Got object file hash from manifest
+[2021-05-16T19:09:44.323247 22540] Copying C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/4/39b87f27ab4e8c0090d87283c67fcd-4074046.o to static_src\MainProgram.o (uncompressed)
+[2021-05-16T19:09:44.323247 22540] Created from cache: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/4/39b87f27ab4e8c0090d87283c67fcd-4074046.o -> static_src\MainProgram.o
+[2021-05-16T19:09:44.324245 22540] Succeeded getting cached result
+[2021-05-16T19:09:44.324245 22540] Result: cache hit (direct)
+[2021-05-16T19:09:44.325241 22540] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2021-05-16T19:09:44.327236 22540] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2021-05-16T19:09:44.382876 21356] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.382876 21356] Config: (default) base_dir = 
+[2021-05-16T19:09:44.382876 21356] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.382876 21356] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.382876 21356] Config: (default) compiler = 
+[2021-05-16T19:09:44.382876 21356] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.382876 21356] Config: (default) compression = false
+[2021-05-16T19:09:44.382876 21356] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.382876 21356] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.382876 21356] Config: (default) debug = false
+[2021-05-16T19:09:44.382876 21356] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.382876 21356] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.382876 21356] Config: (default) disable = false
+[2021-05-16T19:09:44.382876 21356] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.382876 21356] Config: (default) hard_link = false
+[2021-05-16T19:09:44.382876 21356] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.382876 21356] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.382876 21356] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.382876 21356] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.382876 21356] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.382876 21356] Config: (default) max_files = 0
+[2021-05-16T19:09:44.382876 21356] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.382876 21356] Config: (default) path = 
+[2021-05-16T19:09:44.382876 21356] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.382876 21356] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.382876 21356] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.382876 21356] Config: (default) read_only = false
+[2021-05-16T19:09:44.382876 21356] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.382876 21356] Config: (default) recache = false
+[2021-05-16T19:09:44.382876 21356] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.382876 21356] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.382876 21356] Config: (default) stats = true
+[2021-05-16T19:09:44.382876 21356] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.382876 21356] Config: (default) umask = 
+[2021-05-16T19:09:44.383086 21356] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCodeHelpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCodeHelpers.c
+[2021-05-16T19:09:44.383086 21356] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.383086 21356] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.384084 21356] Source file: static_src\CompiledCodeHelpers.c
+[2021-05-16T19:09:44.384084 21356] Object file: static_src\CompiledCodeHelpers.o
+[2021-05-16T19:09:44.384084 21356] Trying direct lookup
+[2021-05-16T19:09:44.384084 21356] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/9/8be62033277830a3c4fa4a7f8e0a55-55417.manifest
+[2021-05-16T19:09:44.410015 992  ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.410015 992  ] Config: (default) base_dir = 
+[2021-05-16T19:09:44.410015 992  ] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.410015 992  ] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.410015 992  ] Config: (default) compiler = 
+[2021-05-16T19:09:44.410015 992  ] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.410015 992  ] Config: (default) compression = false
+[2021-05-16T19:09:44.410015 992  ] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.410015 992  ] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.410015 992  ] Config: (default) debug = false
+[2021-05-16T19:09:44.410015 992  ] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.410015 992  ] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.410015 992  ] Config: (default) disable = false
+[2021-05-16T19:09:44.410015 992  ] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.410015 992  ] Config: (default) hard_link = false
+[2021-05-16T19:09:44.410015 992  ] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.410015 992  ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.410015 992  ] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.410015 992  ] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.410015 992  ] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.410015 992  ] Config: (default) max_files = 0
+[2021-05-16T19:09:44.410015 992  ] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.410015 992  ] Config: (default) path = 
+[2021-05-16T19:09:44.410015 992  ] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.410015 992  ] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.410015 992  ] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.410015 992  ] Config: (default) read_only = false
+[2021-05-16T19:09:44.410015 992  ] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.410015 992  ] Config: (default) recache = false
+[2021-05-16T19:09:44.410015 992  ] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.410015 992  ] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.410015 992  ] Config: (default) stats = true
+[2021-05-16T19:09:44.410015 992  ] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.410015 992  ] Config: (default) umask = 
+[2021-05-16T19:09:44.410015 992  ] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2021-05-16T19:09:44.410015 992  ] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.410015 992  ] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.411013 992  ] Source file: static_src\InspectPatcher.c
+[2021-05-16T19:09:44.411013 992  ] Object file: static_src\InspectPatcher.o
+[2021-05-16T19:09:44.411013 992  ] Trying direct lookup
+[2021-05-16T19:09:44.412010 992  ] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/e/cbd57c5c07a8c02866ae369d28fb3e-13576.manifest
+[2021-05-16T19:09:44.417995 19792] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-16T19:09:44.417995 19792] Config: (default) base_dir = 
+[2021-05-16T19:09:44.417995 19792] Config: (environment) cache_dir = C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-16T19:09:44.417995 19792] Config: (default) cache_dir_levels = 2
+[2021-05-16T19:09:44.417995 19792] Config: (default) compiler = 
+[2021-05-16T19:09:44.417995 19792] Config: (default) compiler_check = mtime
+[2021-05-16T19:09:44.417995 19792] Config: (default) compression = false
+[2021-05-16T19:09:44.417995 19792] Config: (default) compression_level = 6
+[2021-05-16T19:09:44.417995 19792] Config: (default) cpp_extension = 
+[2021-05-16T19:09:44.417995 19792] Config: (default) debug = false
+[2021-05-16T19:09:44.417995 19792] Config: (default) depend_mode = false
+[2021-05-16T19:09:44.417995 19792] Config: (default) direct_mode = true
+[2021-05-16T19:09:44.417995 19792] Config: (default) disable = false
+[2021-05-16T19:09:44.417995 19792] Config: (default) extra_files_to_hash = 
+[2021-05-16T19:09:44.417995 19792] Config: (default) hard_link = false
+[2021-05-16T19:09:44.417995 19792] Config: (default) hash_dir = true
+[2021-05-16T19:09:44.417995 19792] Config: (default) ignore_headers_in_manifest = 
+[2021-05-16T19:09:44.417995 19792] Config: (default) keep_comments_cpp = false
+[2021-05-16T19:09:44.417995 19792] Config: (default) limit_multiple = 0.8
+[2021-05-16T19:09:44.417995 19792] Config: (environment) log_file = D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build\ccache-936.txt
+[2021-05-16T19:09:44.417995 19792] Config: (default) max_files = 0
+[2021-05-16T19:09:44.417995 19792] Config: (C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-16T19:09:44.417995 19792] Config: (default) path = 
+[2021-05-16T19:09:44.417995 19792] Config: (default) pch_external_checksum = false
+[2021-05-16T19:09:44.417995 19792] Config: (default) prefix_command = 
+[2021-05-16T19:09:44.417995 19792] Config: (default) prefix_command_cpp = 
+[2021-05-16T19:09:44.417995 19792] Config: (default) read_only = false
+[2021-05-16T19:09:44.417995 19792] Config: (default) read_only_direct = false
+[2021-05-16T19:09:44.417995 19792] Config: (default) recache = false
+[2021-05-16T19:09:44.417995 19792] Config: (default) run_second_cpp = true
+[2021-05-16T19:09:44.417995 19792] Config: (default) sloppiness = 
+[2021-05-16T19:09:44.417995 19792] Config: (default) stats = true
+[2021-05-16T19:09:44.417995 19792] Config: (default) temporary_dir = 
+[2021-05-16T19:09:44.417995 19792] Config: (default) umask = 
+[2021-05-16T19:09:44.418991 19792] Command line: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\kamra\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2021-05-16T19:09:44.418991 19792] Hostname: LAPTOP-9RI1VPMN
+[2021-05-16T19:09:44.418991 19792] Working directory: D:\Users\kamra\CPEN 291\project-team-ankylosaurus\App\App.build
+[2021-05-16T19:09:44.418991 19792] Source file: static_src\MetaPathBasedLoader.c
+[2021-05-16T19:09:44.418991 19792] Object file: static_src\MetaPathBasedLoader.o
+[2021-05-16T19:09:44.419989 19792] Trying direct lookup
+[2021-05-16T19:09:44.419989 19792] Looking for object file hash in C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/9/f51b6765c636d41941f98ffebd99a7-53835.manifest
+[2021-05-16T19:09:44.428964 4296 ] Got object file hash from preprocessor
+[2021-05-16T19:09:44.428964 4296 ] Object file C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/2/cfb11a83177c9c6e630a3a10a44a1e-813184.o not in cache
+[2021-05-16T19:09:44.429961 4296 ] Running real compiler
+[2021-05-16T19:09:44.466355 992  ] Got object file hash from manifest
+[2021-05-16T19:09:44.467352 992  ] Copying C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/6/1196a93917b29c5e43098ae7114bc5-596352.o to static_src\InspectPatcher.o (uncompressed)
+[2021-05-16T19:09:44.468350 992  ] Created from cache: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/6/1196a93917b29c5e43098ae7114bc5-596352.o -> static_src\InspectPatcher.o
+[2021-05-16T19:09:44.469347 992  ] Succeeded getting cached result
+[2021-05-16T19:09:44.469347 992  ] Result: cache hit (direct)
+[2021-05-16T19:09:44.469347 992  ] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-16T19:09:44.473337 992  ] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-16T19:09:44.533276 21356] Got object file hash from manifest
+[2021-05-16T19:09:44.535171 21356] Copying C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/a/3ea4fad17234da8d42f835d489be32-5719519.o to static_src\CompiledCodeHelpers.o (uncompressed)
+[2021-05-16T19:09:44.537166 21356] Created from cache: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/a/3ea4fad17234da8d42f835d489be32-5719519.o -> static_src\CompiledCodeHelpers.o
+[2021-05-16T19:09:44.537166 21356] Succeeded getting cached result
+[2021-05-16T19:09:44.537166 21356] Result: cache hit (direct)
+[2021-05-16T19:09:44.538162 21356] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-05-16T19:09:44.540157 21356] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-05-16T19:09:44.542151 19792] Got object file hash from manifest
+[2021-05-16T19:09:44.543149 19792] Copying C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/4/88a2385dee05e818300da9acd67adb-4102478.o to static_src\MetaPathBasedLoader.o (uncompressed)
+[2021-05-16T19:09:44.543149 19792] Created from cache: C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/4/88a2385dee05e818300da9acd67adb-4102478.o -> static_src\MetaPathBasedLoader.o
+[2021-05-16T19:09:44.544147 19792] Succeeded getting cached result
+[2021-05-16T19:09:44.544147 19792] Result: cache hit (direct)
+[2021-05-16T19:09:44.544147 19792] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-16T19:09:44.547140 19792] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-16T19:09:45.910477 4296 ] Unlink C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/2/cfb11a83177c9c6e630a3a10a44a1e-813184.o.tmp.stdout.LAPTOP-9RI1VPMN.4296.1QBI6D
+[2021-05-16T19:09:45.911499 4296 ] Unlink C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/2/cfb11a83177c9c6e630a3a10a44a1e-813184.o.tmp.stderr.LAPTOP-9RI1VPMN.4296.SS92c3
+[2021-05-16T19:09:45.911499 4296 ] Copying module.__main__.o to C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/2/cfb11a83177c9c6e630a3a10a44a1e-813184.o via C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/2/cfb11a83177c9c6e630a3a10a44a1e-813184.o.LAPTOP-9RI1VPMN.4296.1Apgjk (uncompressed)
+[2021-05-16T19:09:45.914453 4296 ] Stored in cache: module.__main__.o -> C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/2/cfb11a83177c9c6e630a3a10a44a1e-813184.o (copied)
+[2021-05-16T19:09:45.918240 4296 ] Added object file hash to C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/2/3a380e242bd6482d4b06d2653eb37e-242437.manifest
+[2021-05-16T19:09:45.918240 4296 ] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-05-16T19:09:45.922289 4296 ] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-05-16T19:09:45.923212 4296 ] Result: cache miss
+[2021-05-16T19:09:45.923212 4296 ] Acquired lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-16T19:09:45.926501 4296 ] Releasing lock C:\Users\kamra\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock

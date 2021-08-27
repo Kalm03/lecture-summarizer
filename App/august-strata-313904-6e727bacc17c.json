@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "august-strata-313904",
+  "private_key_id": "6e727bacc17c50a852f556cd2b4557945b9dd61e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvjfFxEu5XrqGM\n58vYbDe4t7fLHBA/NHb9GF8fosixKiNeQDT6Vtbk17oHaFSCHuqnRuQoUA2DWw2l\naJNvcQ2jiebo5bif5v8Cc3whby9WrI3ncxMhAhdPwD/Ixy/GC9+jnXD7zUtYdSaI\n4TfwK4hrMBW+n/eAogAqsthUzVGxqzGvbVtZItu1bZ8m2o3kgeT3uefODK3rtMN5\niUVezURDJPPwfDms/9Ioc/liSo0+60P6vpQ4RsEfx1cVcHXYWxwtAMBtwaC4Ban7\nQv1KlncvMxqLmRM7rea1BCYR9XmrmcHY6AtX7Ygjnxlf4/mc9BEk9X/JnbwK7PmN\nD8AfDSaDAgMBAAECggEATcl4VSENSP7RCG1hDomM+yU0pCPQMyFdI/Jbm9n2UUIZ\nn9aVYuN9nrLT9BpPb8ShNvObfx1Rj4WV+1fmFDgk0fT1wvafIwMotX5UX0Az2pTk\n38xGipaxm53U5XMVAQ0b0BSgDoK9wvlN1NLuhVXUwaHx0KBy+6VMq57JanH7o9w5\n9hVP3lAnBMLhyNVigTiceHf/+qwTnquZsF+I+cBWDM4XpsMk4BedCGNMadeaa7vZ\nwm4dtBne9hP4hPSkQMR0SY3wiZ8N1x5oPFS4rYg8IofeCPWbGaURFLSNu9GTsLyT\nb4Eci/+8/EWtMNA7gD4NMVvopyOgXaCTZLg1WLhqQQKBgQDjgQOf7efhRB8rSPTy\nW3DRwwnBMGMiUvoqUnUaoNEBOo/lLOXMhnt6I9K4MooJp8MnFbkVipk1wAqlW00N\n2qbg/a63Q+OtP/TlzF80lR3UJOEcdq7coIRmyerP96KcWfT9zId+z0Ddcwe5SHyy\n+Mey6gC4LB0Sz2IeY4ZeUrGa4QKBgQDFiybvjLHYv+iL+LQ8imNWWsJTLqm10T6e\nlVgNx6mN7kQbjFCVILG8I2lY1oBcEQpkBHfgtRrAznsb17s2FOIXE1ZazROC6IIJ\nWouwN276Ty4QPBzgdOH65lm7O82Xt0lhZAt1hhtJY/fMOIm73mM0+BRCt7oXUjnN\n2Q+07CPx4wKBgQCDcaIPgBwuSfacQq3LbUuU1lRHe1Z7mWeSlku0k9/ODvDen38y\nGS00V4hDBmg8xeH6LhHewVJd/NPp0AOIEqHCcq/EkQP1sHMlZlxHfDRcwuYRVP0Y\n2eFFpjn16ITaQxtKnCZY/RPkHrcCtT/fA+AVnh/GSS6PFKUDG8uhqbOV4QKBgDUQ\nxVvSWrAUFV8MZzZgIoE/DjaUMWizFfQ5wBarjQOgftE7pyX4S2ZzyMfhj0esGDN3\n88/8NnyWuwFmuVa002tJeYgY0OX4mX3zwdSLf5dkD8ayrzsoitAAcxhV30ujI+Yy\nntVqOghD/3vvsCg0fEftYFvvyOCc6QRAC/UY/irrAoGAau6S4YFkb20goxbUZndf\nA3t2E5Kd4vAiT+x2gF0BJZZUZnhFOAyGctYQaVjnHq7WZKklsklH6pnoQnoZzVfH\nQB8C9IcAxBCr6WGHtWt0yLNfZeUXVVY6D08dsDxHNFdpKBUCkGvWIPC73QXDlyPx\nhCRB3kp6UU6MTN2niplJvFI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speechrecognition@august-strata-313904.iam.gserviceaccount.com",
+  "client_id": "102701005789842215726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speechrecognition%40august-strata-313904.iam.gserviceaccount.com"
+}
